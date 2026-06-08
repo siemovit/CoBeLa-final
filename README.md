@@ -2,7 +2,7 @@
 
 **Unofficial implementation** of *"Steering Transparent Generation via Concept Bottlenecks on Energy Landscapes"* (Kim et al., 2026) — [arXiv:2507.08334](https://arxiv.org/abs/2507.08334)
 
-This repository was developed as a course project for the **Explainable AI (XAI)** class of the [MVA Master's program](https://www.master-mva.com/) (ENS Paris-Saclay, 2025–2026). Report available [here]([https://www.master-mva.com/](https://drive.google.com/drive/folders/1OCTtYBUcdg6wMmOfgdGS9bQhr13kJKJ).
+This repository was developed as a course project for the **Explainable AI (XAI)** class of the [MVA Master's program](https://www.master-mva.com/) (ENS Paris-Saclay, 2025–2026). Report available [here](https://drive.google.com/drive/folders/1OCTtYBUcdg6wMmOfgdGS9bQhr13kJKJ).
 
 > **Disclaimer:** This is not the official implementation by the authors. It was built from scratch for educational and reproducibility purposes, reusing only the vendor utilities (`dnnlib/`, `torch_utils/`) and pretrained classifiers from the [CB-AE repository](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm).
 
